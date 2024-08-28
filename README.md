@@ -1,5 +1,5 @@
 
-<h1>Projeto WordPress para Central de Atendimento</h1>
+<h1>Projeto WordPress para Central de Atendimento BACK-END</h1>
 
 Este repositório contém o código desenvolvido para o site da Central de Atendimento de Faculdade Adventista da Amazônia. O projeto foi realizado por João Victor Reis, e abrange tanto o backend quanto o frontend, utilizando WordPress como plataforma.
 

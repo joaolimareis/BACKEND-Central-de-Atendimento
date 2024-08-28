@@ -62,6 +62,7 @@ Este projeto foi desenvolvido exclusivamente para uso interno em Faculdade Adven
 
 <h2>Observação</h2>
 Caso você queira ver o codigo que que eu criei esta na pasta -> themes/astra-child/fuctions.php
+
 Nela você encontrará todo o codigo fonte do backend do site.
 
 Autor
